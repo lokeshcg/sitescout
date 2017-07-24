@@ -1,4 +1,4 @@
-SiteScout PHP AOI  Wrapper
+SiteScout PHP API  Wrapper
 =========
 
 SiteScout Php API Wrapper Class
